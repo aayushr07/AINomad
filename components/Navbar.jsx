@@ -41,7 +41,7 @@ export default function Navbar() {
           transition={{ duration: 0.6 }}
         >
           <Link href="/" className="hover:opacity-80">
-            FoodLookup
+            
           </Link>
         </motion.div>
 
